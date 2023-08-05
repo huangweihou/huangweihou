@@ -27,7 +27,7 @@
 
 ### 📈 GitHub status
 
-![](https://komarev.com/ghpvc/?username=huangweihou&label=Views&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=thhuang&label=Views&style=for-the-badge)
 
 <p align=center>
   <div align=center>
