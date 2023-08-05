@@ -27,12 +27,12 @@
 
 ### 📈 GitHub status
 
-![](https://komarev.com/ghpvc/?username=thhuang&label=Views&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=huangweihou&label=Views&style=for-the-badge)
 
 <p align=center>
   <div align=center>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thhuang&theme=nord_dark&exclude=HTML,CSS,SCSS" alt="huangweihou-repos-per-language" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thhuang&theme=nord_dark&exclude=HTML,CSS,SCSS" alt="huangweihou-most-commit-language" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huangweihou&theme=nord_dark&exclude=HTML,CSS,SCSS" alt="huangweihou-repos-per-language" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huangweihou&theme=nord_dark&exclude=HTML,CSS,SCSS" alt="huangweihou-most-commit-language" />
   </div>
 </p>
 
