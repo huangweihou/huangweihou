@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://huangweihou.github.io/Personal_Website/">
-    <img src="https://img.shields.io/badge/personal_website-%23121011.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" alt="Personal Website">
+    <img src="https://img.shields.io/badge/personal_website-%23121011.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Website">
   </a>
   <a href="https://github.com/huangweihou">
     <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
