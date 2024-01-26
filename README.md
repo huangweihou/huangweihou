@@ -48,4 +48,3 @@
 [leetcode]: https://leetcode.com/huangwh/
 [linkedin]: https://www.linkedin.com/in/weihouhuang
 [python]: https://www.python.org
-[personal_website]: https://huangweihou.github.io/Personal_Website/
