@@ -21,13 +21,18 @@
 
 ### 📞 Contact me
 
-<p align = "left">
-  <a href="https://huangweihou.github.io/Personal_Website/">
-  <img src="https://img.shields.io/badge/personal_website%20-%23121011.svg?&style=for-the-  badge&logo=personal_website&logoColor=white" alt="GitHub">
-  </a>
-  [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
+
+<p align="left">
+  <a href="https://huangweihou.github.io/Personal_Website/">
+    <img src="https://img.shields.io/badge/personal_website-%23121011.svg?&style=for-the-badge&logo=personalwebsite&logoColor=white" alt="Personal Website">
+  </a>
+  <a href="https://github.com/huangweihou">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/weihouhuang">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ### 📈 GitHub status
