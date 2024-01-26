@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/personal_website-%23121011.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Website">
   </a>
   <a href="https://github.com/huangweihou">
-    <img src="https://img.shields.io/badge/github-%#FFF1DC?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/github-%2314354C.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/weihouhuang">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
