@@ -22,7 +22,6 @@
 ### 📞 Contact me
 
 <p align = "left">
-  [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=personal website&logoColor=white" />][personal_website]
   [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
