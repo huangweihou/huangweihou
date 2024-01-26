@@ -1,7 +1,8 @@
 ## Hello! I'm Wei-Hou Huang ✨
 
-- 🎓 MSCS at University of Pennsylvania
-- 💻 Previously worked at [Amazon][amazon] as a software engineer intern
+- 🎓 Master of Computer and Information Science at University of Pennsylvania
+- 🔭 Actively seeking a 2024 full-time software engineer/developer
+- 💻 Previously worked at [Amazon][amazon] as a software developer engineer intern
 - 🤓 Enthusiastic about developing all kinds of fun software applications
 
 ### 😎 Stuff I'm good at
