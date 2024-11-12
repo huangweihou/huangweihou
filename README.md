@@ -4,7 +4,6 @@
 - 🔭 Actively seeking a 2024 full-time software engineer/developer
 - 💻 Previously worked at [Amazon][amazon] as a software developer engineer intern
 - 🤓 Enthusiastic about developing all kinds of fun software applications
-- 🤜 Find me at https://huangweihou.github.io/Personal_Website/
 
 
 ### 😎 Stuff I'm good at
