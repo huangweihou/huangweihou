@@ -24,9 +24,6 @@
 
 
 <p align="left">
-  <a href="https://huangweihou.github.io/Personal_Website/">
-    <img src="https://img.shields.io/badge/personal_website-%2314354C.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Website">
-  </a>
   <a href="https://www.linkedin.com/in/weihouhuang">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
